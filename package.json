@@ -1,0 +1,15 @@
+{
+  "name": "firebase-database-change-repro",
+  "version": "1.0.0",
+  "description": "Reproduction of breaking change to firebase/database",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "author": "qwales1@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "npm-install-version": "github:qwales1/npm-install-version"
+  }
+}
